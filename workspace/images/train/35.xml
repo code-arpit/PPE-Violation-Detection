@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>35.jpeg</filename>
+	<path>/home/arpitjain/Desktop/Code/tabxolabs/hat_detection/Tensorflow/workspace/images/train/35.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>223</width>
+		<height>226</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>15</ymin>
+			<xmax>205</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

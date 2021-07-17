@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>3.jpeg</filename>
+	<path>/home/arpitjain/Desktop/Code/tabxolabs/mask_detection/Tensorflow/workspace/images/allimages/3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>98</ymin>
+			<xmax>141</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,24 @@
+item { 
+	name:'Helmet'
+	id:1
+}
+item { 
+	name:'Jacket'
+	id:2
+}
+item { 
+	name:'Mask'
+	id:3
+}
+item { 
+	name:'No-helmet'
+	id:4
+}
+item { 
+	name:'No-jacket'
+	id:5
+}
+item { 
+	name:'No-mask'
+	id:6
+}
