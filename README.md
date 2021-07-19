@@ -16,9 +16,12 @@ Safety Uniform Detection
 
 6) Then Open terminal from "PPE_Violation_detection" folder and simply run 
    ==> python object_detection_camera.py 
-   Test Image 
+   
+   **Test Image**
+   
   ![Test](https://user-images.githubusercontent.com/83284168/126197871-aed07a98-0974-432a-a848-72fcac91b0de.jpeg)
    
-   Result 
+   **PE_Violation_detection **
+   
    ![Result](https://user-images.githubusercontent.com/83284168/126197930-fb4b7d6b-b29d-4b00-accc-42f58668b5a1.jpeg)
 
