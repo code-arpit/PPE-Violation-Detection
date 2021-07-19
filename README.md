@@ -21,7 +21,7 @@ Safety Uniform Detection
    
   ![Test](https://user-images.githubusercontent.com/83284168/126197871-aed07a98-0974-432a-a848-72fcac91b0de.jpeg)
    
-   **PE_Violation_detection **
+   **Result Image**
    
    ![Result](https://user-images.githubusercontent.com/83284168/126197930-fb4b7d6b-b29d-4b00-accc-42f58668b5a1.jpeg)
 
