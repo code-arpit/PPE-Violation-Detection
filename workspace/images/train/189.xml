@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>189.jpeg</filename>
+	<path>/home/arpitjain/Desktop/Code/tabxolabs/PPE_Violation_Detection/workspace/images/train/189.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>263</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>23</ymin>
+			<xmax>149</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

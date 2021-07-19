@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>128.jpeg</filename>
+	<path>/home/arpitjain/Desktop/Code/tabxolabs/PPE_Violation_Detection/workspace/images/train/128.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>246</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>19</ymin>
+			<xmax>197</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -35,7 +35,11 @@ def class_text_to_int(row_label):
     elif row_label == 'No-jacket':
         return 5
     elif row_label == 'No-mask':
-        return 6        
+        return 6
+    elif row_label == 'gloves':
+        return 7
+    elif row_label == 'shoes':
+        return 8             
     else:
         return 0
 

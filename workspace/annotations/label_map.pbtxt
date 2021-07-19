@@ -22,3 +22,11 @@ item {
 	name:'No-mask'
 	id:6
 }
+item { 
+	name:'gloves'
+	id:7
+}
+item { 
+	name:'shoes'
+	id:8
+}
